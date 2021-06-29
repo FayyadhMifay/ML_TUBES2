@@ -1,0 +1,402 @@
+[
+	{
+		"usia": "< 1 tahun",
+		"jam": "< 6 jam",
+		"original": "iya",
+		"pengechasan": "20% - 50%",
+		"charger": "tidak pernah",
+		"kondisi": 1
+	},
+	{
+		"usia": "< 1 tahun",
+		"jam": "6 - 12 jam",
+		"original": "iya",
+		"pengechasan": "> 50%",
+		"charger": "terkadang",
+		"kondisi": 1
+	},
+	{
+		"usia": "> 4 tahun",
+		"jam": "> 12 jam",
+		"original": "tidak",
+		"pengechasan": "0%",
+		"charger": "pernah",
+		"kondisi": 0
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "6 - 12 jam",
+		"original": "tidak",
+		"pengechasan": "20% - 50%",
+		"charger": "terkadang",
+		"kondisi": 1
+	},
+	{
+		"usia": "> 4 tahun",
+		"jam": "6 - 12 jam",
+		"original": "iya",
+		"pengechasan": "20% - 50%",
+		"charger": "tidak pernah",
+		"kondisi": 1
+	},
+	{
+		"usia": "< 1 tahun",
+		"jam": "> 12 jam",
+		"original": "tidak",
+		"pengechasan": "0%",
+		"charger": "pernah",
+		"kondisi": 0
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "< 6 jam",
+		"original": "tidak",
+		"pengechasan": "> 50%",
+		"charger": "pernah",
+		"kondisi": 0
+	},
+	{
+		"usia": "> 4 tahun",
+		"jam": "< 6 jam",
+		"original": "iya",
+		"pengechasan": "20% - 50%",
+		"charger": "terkadang",
+		"kondisi": 1
+	},
+	{
+		"usia": "> 4 tahun",
+		"jam": "< 6 jam",
+		"original": "tidak",
+		"pengechasan": "> 50%",
+		"charger": "terkadang",
+		"kondisi": 1
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "< 6 jam",
+		"original": "tidak",
+		"pengechasan": "0%",
+		"charger": "pernah",
+		"kondisi": 0
+	},
+	{
+		"usia": "> 4 tahun",
+		"jam": "6 - 12 jam",
+		"original": "iya",
+		"pengechasan": "0%",
+		"charger": "tidak pernah",
+		"kondisi": 1
+	},
+	{
+		"usia": "< 1 tahun",
+		"jam": "> 12 jam",
+		"original": "iya",
+		"pengechasan": "> 50%",
+		"charger": "terkadang",
+		"kondisi": 1
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "6 - 12 jam",
+		"original": "tidak",
+		"pengechasan": "20% - 50%",
+		"charger": "terkadang",
+		"kondisi": 1
+	},
+	{
+		"usia": "> 4 tahun",
+		"jam": "6 - 12 jam",
+		"original": "iya",
+		"pengechasan": "20% - 50%",
+		"charger": "tidak pernah",
+		"kondisi": 1
+	},
+	{
+		"usia": "> 4 tahun",
+		"jam": "6 - 12 jam",
+		"original": "iya",
+		"pengechasan": "20% - 50%",
+		"charger": "tidak pernah",
+		"kondisi": 0
+	},
+	{
+		"usia": "< 1 tahun",
+		"jam": "< 6 jam",
+		"original": "iya",
+		"pengechasan": "> 50%",
+		"charger": "tidak pernah",
+		"kondisi": 1
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "< 6 jam",
+		"original": "iya",
+		"pengechasan": "20% - 50%",
+		"charger": "terkadang",
+		"kondisi": 1
+	},
+	{
+		"usia": "> 4 tahun",
+		"jam": "6 - 12 jam",
+		"original": "tidak",
+		"pengechasan": "> 50%",
+		"charger": "terkadang",
+		"kondisi": 1
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "< 6 jam",
+		"original": "iya",
+		"pengechasan": "20% - 50%",
+		"charger": "pernah",
+		"kondisi": 0
+	},
+	{
+		"usia": "> 4 tahun",
+		"jam": "6 - 12 jam",
+		"original": "tidak",
+		"pengechasan": "20% - 50%",
+		"charger": "tidak pernah",
+		"kondisi": 1
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "> 12 jam",
+		"original": "tidak",
+		"pengechasan": "0%",
+		"charger": "terkadang",
+		"kondisi": 0
+	},
+	{
+		"usia": "> 4 tahun",
+		"jam": "6 - 12 jam",
+		"original": "tidak",
+		"pengechasan": "> 50%",
+		"charger": "pernah",
+		"kondisi": 0
+	},
+	{
+		"usia": "> 4 tahun",
+		"jam": "6 - 12 jam",
+		"original": "tidak",
+		"pengechasan": "> 50%",
+		"charger": "tidak pernah",
+		"kondisi": 1
+	},
+	{
+		"usia": "< 1 tahun",
+		"jam": "< 6 jam",
+		"original": "tidak",
+		"pengechasan": "20% - 50%",
+		"charger": "pernah",
+		"kondisi": 0
+	},
+	{
+		"usia": "< 1 tahun",
+		"jam": "> 12 jam",
+		"original": "iya",
+		"pengechasan": "20% - 50%",
+		"charger": "tidak pernah",
+		"kondisi": 1
+	},
+	{
+		"usia": "> 4 tahun",
+		"jam": "6 - 12 jam",
+		"original": "iya",
+		"pengechasan": "20% - 50%",
+		"charger": "terkadang",
+		"kondisi": 1
+	},{
+		"usia": "< 1 tahun",
+		"jam": "< 6 jam",
+		"original": "iya",
+		"pengechasan": "0%",
+		"charger": "pernah",
+		"kondisi": 1
+	},
+	{
+		"usia": "> 4 tahun",
+		"jam": "> 12 jam",
+		"original": "tidak",
+		"pengechasan": "0%",
+		"charger": "tidak pernah",
+		"kondisi": 0
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "6 - 12 jam",
+		"original": "tidak",
+		"pengechasan": "20% - 50%",
+		"charger": "terkadang",
+		"kondisi": 0
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "6 - 12 jam",
+		"original": "tidak",
+		"pengechasan": "0%",
+		"charger": "pernah",
+		"kondisi": 0
+	},
+	{
+		"usia": "> 4 tahun",
+		"jam": "> 12 jam",
+		"original": "iya",
+		"pengechasan": "> 50%",
+		"charger": "pernah",
+		"kondisi": 1
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "> 12 jam",
+		"original": "iya",
+		"pengechasan": "20% - 50%",
+		"charger": "pernah",
+		"kondisi": 1
+	},
+	{
+		"usia": "> 4 tahun",
+		"jam": "< 6 jam",
+		"original": "tidak",
+		"pengechasan": "0%",
+		"charger": "terkadang",
+		"kondisi": 0
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "> 12 jam",
+		"original": "tidak",
+		"pengechasan": "20% - 50%",
+		"charger": "pernah",
+		"kondisi": 1
+	},
+	{
+		"usia": "> 4 tahun",
+		"jam": "6 - 12 jam",
+		"original": "tidak",
+		"pengechasan": "20% - 50%",
+		"charger": "terkadang",
+		"kondisi": 1
+	},
+	{
+		"usia": "< 1 tahun",
+		"jam": "> 12 jam",
+		"original": "iya",
+		"pengechasan": "20% - 50%",
+		"charger": "tidak pernah",
+		"kondisi": 0
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "< 6 jam",
+		"original": "tidak",
+		"pengechasan": "20% - 50%",
+		"charger": "pernah",
+		"kondisi": 1
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "< 6 jam",
+		"original": "iya",
+		"pengechasan": "20% - 50%",
+		"charger": "pernah",
+		"kondisi": 0
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "> 12 jam",
+		"original": "iya",
+		"pengechasan": "> 50%",
+		"charger": "terkadang",
+		"kondisi": 0
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "6 - 12 jam",
+		"original": "tidak",
+		"pengechasan": "20% - 50%",
+		"charger": "pernah",
+		"kondisi": 1
+	},
+	{
+		"usia": "> 4 tahun",
+		"jam": "> 12 jam",
+		"original": "tidak",
+		"pengechasan": "20% - 50%",
+		"charger": "terkadang",
+		"kondisi": 1
+	},
+	{
+		"usia": "< 1 tahun",
+		"jam": "6 - 12 jam",
+		"original": "tidak",
+		"pengechasan": "20% - 50%",
+		"charger": "pernah",
+		"kondisi": 1
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "< 6 jam",
+		"original": "tidak",
+		"pengechasan": "20% - 50%",
+		"charger": "pernah",
+		"kondisi": 0
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "< 6 jam",
+		"original": "iya",
+		"pengechasan": "20% - 50%",
+		"charger": "terkadang",
+		"kondisi": 0
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "6 - 12 jam",
+		"original": "tidak",
+		"pengechasan": "0%",
+		"charger": "tidak pernah",
+		"kondisi": 0
+	},
+	{
+		"usia": "< 1 tahun",
+		"jam": "< 6 jam",
+		"original": "tidak",
+		"pengechasan": "0%",
+		"charger": "pernah",
+		"kondisi": 1
+	},
+	{
+		"usia": "< 1 tahun",
+		"jam": "> 12 jam",
+		"original": "iya",
+		"pengechasan": "> 50%",
+		"charger": "pernah",
+		"kondisi": 0
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "< 6 jam",
+		"original": "tidak",
+		"pengechasan": "20% - 50%",
+		"charger": "pernah",
+		"kondisi": 1
+	},
+	{
+		"usia": "2 - 3 tahun",
+		"jam": "< 6 jam",
+		"original": "iya",
+		"pengechasan": "20% - 50%",
+		"charger": "pernah",
+		"kondisi": 0
+	},
+	{
+		"usia": "< 1 tahun",
+		"jam": "< 6 jam",
+		"original": "iya",
+		"pengechasan": "20% - 50%",
+		"charger": "tidak pernah",
+		"kondisi": 1
+	}
+
+]
